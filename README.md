@@ -25,7 +25,7 @@ A full description of the fields available in the dataset can be found in the AP
 
 Due to the large size of the JSON and CSV datasets requires the user to install the git LFS extension to pull the full files and not just the text pointers.
 
-The extension, along with full documentation, can be found [here] (https://git-lfs.github.com/).
+The extension, along with full documentation, can be found [here](https://git-lfs.github.com/).
 
 ## Additional usage guidelines  
 
@@ -41,7 +41,7 @@ We plan to update the datasets with new and revised information on a regular bas
 
 ### Pull requests  
 
-Because these datasets are generated from our internal database, we do not accept pull requests. If you have identified errors or have extra information to share, please email us at [openaccess@clevelandart.org] (openaccess@clevelandart.org) and we will forward to the appropriate department for review.  
+Because these datasets are generated from our internal database, we do not accept pull requests. If you have identified errors or have extra information to share, please email us at [openaccess@clevelandart.org](openaccess@clevelandart.org) and we will forward to the appropriate department for review.  
 
 ### Attribution  
 
