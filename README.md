@@ -11,11 +11,21 @@ The Cleveland Museum of Art's Open Access datasets are in this repository in JSO
 
 [http://openaccess-api.clevelandart.org/](http://openaccess-api.clevelandart.org/)
 
+Questions about the dataset, the API, or anything else related to CMA's Open Access initiative can be directed here:
+
+[openaccess@clevelandart.org] (openaccess@clevelandart.org)
+
 ## About the data
 
 A full description of the fields available in the dataset can be found in the API documenation:
 
 [http://openaccess-api.clevelandart.org/#fields](http://openaccess-api.clevelandart.org/#fields)
+
+### git LFS (large file storage)
+
+Due to the large size of the JSON and CSV datasets requires the user to install the git LFS extension to pull the full files and not just the text pointers.
+
+The extension, along with full documentation, can be found [here] (https://git-lfs.github.com/).
 
 ## Additional usage guidelines  
 
@@ -31,7 +41,7 @@ We plan to update the datasets with new and revised information on a regular bas
 
 ### Pull requests  
 
-Because these datasets are generated from our internal database, we do not accept pull requests. If you have identified errors or have extra information to share, please email us at [openaccess@clevelandart.org](openaccess@clevelandart.org) and we will forward to the appropriate department for review.  
+Because these datasets are generated from our internal database, we do not accept pull requests. If you have identified errors or have extra information to share, please email us at [openaccess@clevelandart.org] (openaccess@clevelandart.org) and we will forward to the appropriate department for review.  
 
 ### Attribution  
 
@@ -44,6 +54,8 @@ Do not mislead others or misrepresent the datasets or their source. You must not
 Whenever you transform, translate or otherwise modify the dataset, you must make it clear that the resulting information has been modified. If you enrich or otherwise modify the dataset, consider publishing the derived dataset without reuse restrictions.  
 
 The writers of these guidelines thank [The Walters Art Museum](https://thewalters.org/), [The Museum of Modern Art](https://www.moma.org/), [Tate](https://www.tate.org.uk/), [Cooper-Hewitt](https://www.cooperhewitt.org/), [Europeana](https://www.europeana.eu/portal/en), and [The Metropolitan Museum of Art](https://www.metmuseum.org/). 
+
+--
 
 <sup>1</sup> J. H. Wade II, act of conveyance of land to be used for the CMA.  
 
