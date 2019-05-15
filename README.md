@@ -13,7 +13,7 @@ The Cleveland Museum of Art's Open Access datasets are in this repository in JSO
 
 Questions about the dataset, the API, or anything else related to CMA's Open Access initiative can be directed here:
 
-[openaccess@clevelandart.org] (openaccess@clevelandart.org)
+[openaccess@clevelandart.org](openaccess@clevelandart.org)
 
 ## About the data
 
