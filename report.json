@@ -1,6 +1,6 @@
 {
-  "cc0": 36766,
-  "copyrighted": 22345,
+  "cc0": 36759,
+  "copyrighted": 22352,
   "other": 5708,
   "id": 64819,
   "accession_number": 63751,
@@ -21,12 +21,12 @@
   "department": 64819,
   "collection": 64819,
   "type": 64819,
-  "measurements": 45696,
+  "measurements": 45725,
   "dimensions": 46870,
   "state_of_the_work": 3398,
   "edition_of_the_work": 1604,
   "creditline": 63878,
-  "copyright": 7351,
+  "copyright": 7361,
   "inscriptions": 16715,
   "exhibitions": 24329,
   "provenance": 22244,
@@ -40,6 +40,6 @@
   "citations": 11871,
   "catalogue_raisonne": 12512,
   "url": 64819,
-  "images": 34801,
+  "images": 34794,
   "num_artworks": 64819
 }
