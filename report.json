@@ -1,7 +1,7 @@
 {
   "cc0": 36724,
-  "copyrighted": 22443,
-  "other": 5666,
+  "copyrighted": 22434,
+  "other": 5675,
   "id": 64833,
   "accession_number": 63765,
   "share_license_status": 64833,
@@ -9,7 +9,7 @@
   "current_location": 4333,
   "title": 64833,
   "title_in_original_language": 1266,
-  "series": 3527,
+  "series": 3545,
   "series_in_original_language": 100,
   "creation_date": 58554,
   "creation_date_earliest": 57947,
@@ -26,7 +26,7 @@
   "state_of_the_work": 3398,
   "edition_of_the_work": 1606,
   "creditline": 63892,
-  "copyright": 7635,
+  "copyright": 7634,
   "inscriptions": 16722,
   "exhibitions": 24353,
   "provenance": 22381,
@@ -40,6 +40,6 @@
   "citations": 11916,
   "catalogue_raisonne": 12513,
   "url": 64833,
-  "images": 34764,
+  "images": 34767,
   "num_artworks": 64833
 }
