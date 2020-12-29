@@ -1,12 +1,12 @@
 {
-  "cc0": 36726,
-  "copyrighted": 22429,
+  "cc0": 36727,
+  "copyrighted": 22428,
   "other": 5678,
   "id": 64833,
   "accession_number": 63765,
   "share_license_status": 64833,
   "tombstone": 64833,
-  "current_location": 4412,
+  "current_location": 4417,
   "title": 64833,
   "title_in_original_language": 1266,
   "series": 3545,
@@ -29,7 +29,7 @@
   "copyright": 7633,
   "inscriptions": 16722,
   "exhibitions": 24353,
-  "provenance": 22381,
+  "provenance": 22400,
   "find_spot": 32,
   "related_works": 491,
   "former_accession_numbers": 6570,
@@ -40,6 +40,6 @@
   "citations": 11917,
   "catalogue_raisonne": 12513,
   "url": 64833,
-  "images": 34769,
+  "images": 34770,
   "num_artworks": 64833
 }
