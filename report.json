@@ -1,7 +1,7 @@
 {
-  "cc0": 37769,
-  "copyrighted": 20081,
-  "other": 6208,
+  "cc0": 38280,
+  "copyrighted": 19859,
+  "other": 5919,
   "id": 64058,
   "accession_number": 64057,
   "share_license_status": 64058,
@@ -26,7 +26,7 @@
   "state_of_the_work": 3409,
   "edition_of_the_work": 1641,
   "creditline": 64037,
-  "copyright": 7685,
+  "copyright": 7274,
   "inscriptions": 16945,
   "exhibitions": 24330,
   "provenance": 22970,
@@ -40,6 +40,6 @@
   "citations": 12445,
   "catalogue_raisonne": 12515,
   "url": 64058,
-  "images": 36063,
+  "images": 36553,
   "num_artworks": 64058
 }
