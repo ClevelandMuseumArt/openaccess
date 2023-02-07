@@ -27,6 +27,13 @@ Due to the large size of the JSON and CSV datasets requires the user to install 
 
 The extension, along with full documentation, can be found [here](https://git-lfs.github.com/).
 
+After installing the extension, clone this repository and then execute
+
+```bash
+git lfs pull
+```
+
+
 ## Additional usage guidelines  
 
 Images are included in the dataset via permalinks associated with each object record.  
