@@ -11,6 +11,14 @@ The Cleveland Museum of Art's Open Access datasets are in this repository in JSO
 
 [http://openaccess-api.clevelandart.org/](http://openaccess-api.clevelandart.org/)
 
+The creators dataset can be found at 
+
+https://openaccess-api.clevelandart.org/api/creators/
+
+The exhibitions dataset can be found at 
+
+https://openaccess-api.clevelandart.org/api/exhibitions/
+
 Questions about the dataset, the API, or anything else related to CMA's Open Access initiative can be directed here:
 
 [openaccess@clevelandart.org](openaccess@clevelandart.org)
