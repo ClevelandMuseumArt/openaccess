@@ -30,7 +30,7 @@
   "edition_of_the_work": 2631,
   "copyright": 8655,
   "inscriptions": 19357,
-  "exhibitions": 27946,
+  "exhibitions": 27957,
   "provenance": 31301,
   "find_spot": 23,
   "related_works": 1529,
@@ -63,8 +63,8 @@
   "has_artlens_media": 522,
   "has_artlens_scannable": 300,
   "alternate_titles": 8636,
-  "upcoming_loans": 25,
-  "current_loan": 25,
+  "upcoming_loans": 24,
+  "current_loan": 24,
   "dimensions_searchable": 51822,
   "is_highlight": 300,
   "last_updated_in_athena": 68953,
@@ -78,7 +78,7 @@
   "part_visible": 47,
   "catalogue_raisonne": 12697,
   "series": 5044,
-  "title_in_original_language": 2156,
+  "title_in_original_language": 2162,
   "series_in_original_language": 196,
   "num_artworks": 68953
 }
